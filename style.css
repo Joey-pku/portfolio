@@ -1,0 +1,27 @@
+
+
+nav {
+  background-color: #9ba3ac; 
+  padding: 1rem;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+}
+nav ul {
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+}
+nav ul li {
+  margin: 0 15px;
+}
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+nav ul li a:hover {
+  color: #d1eaff; /* Lighter blue on hover */
+}
+
+
+
+

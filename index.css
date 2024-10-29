@@ -1,0 +1,42 @@
+
+section {
+    padding-top: 10rem; 
+    padding-bottom: 2rem; 
+  }
+  
+  .profile-container {
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+  }
+  
+
+  .project-image img {
+    width: 200px; 
+    height: auto; 
+    border-radius: 50%; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+  }
+
+  .texting {
+    padding: 2rem;
+    text-align: center;
+    background-color: #ffffff; 
+    border-radius: 8px;
+    margin: 20px auto;
+    max-width: 800px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  
+  h1 {
+    color: #4a90e2; 
+    margin: 1rem 0; 
+  }
+  
+  
+  p {
+    margin: 0.5rem 0; 
+    max-width: 1000px;
+  }
+  

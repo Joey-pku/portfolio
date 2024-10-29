@@ -1,0 +1,25 @@
+
+section {
+  padding: 2rem;
+  text-align: center;
+}
+
+.project-images {
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+  gap: 40px; 
+  margin-top: 60px;
+}
+
+.project-images img {
+  width: auto; 
+  height: 500px; 
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+}
+
+h2{
+  text-align: center;
+  color: #4a90e2;
+}
